@@ -1,7 +1,6 @@
 <p align="center"><img width="690" height="201" alt="border" src="https://github.com/user-attachments/assets/ae6ad716-03e5-4466-9587-e2f5e72d9cea" />
 
-<p align="center"><img width="505" height="505" alt="telamon" src="https://github.com/user-attachments/assets/9f59d1a7-24ce-4203-9871-f8fb5ce06af4" />
-
+<p align="center"><img width="505" height="505" alt="ezgif-7f29db61223f7e6c" src="https://github.com/user-attachments/assets/94a241d8-c15e-475a-bd3f-43a90b174020" />
 
 <p align="center">
   ${\textsf{\color{#8C7475}I am not the sunshine, I am not the moon at night.}}$
